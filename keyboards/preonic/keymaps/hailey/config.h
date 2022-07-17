@@ -17,7 +17,7 @@
 #pragma once
 
 #ifdef AUDIO_ENABLE
-#    define STARTUP_SONG SONG(PREONIC_SOUND)
+#    define STARTUP_SONG SONG(ODE_TO_JOY)
 // #define STARTUP_SONG SONG(NO_SOUND)
 
 #    define DEFAULT_LAYER_SONGS \
