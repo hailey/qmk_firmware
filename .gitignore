@@ -56,6 +56,7 @@ CMakeLists.txt
 .tags
 .vscode/c_cpp_properties.json
 .vscode/ipch/
+.vscode/settings.json
 .vscode/last.sql
 .vscode/launch.json
 .vscode/tasks.json
